@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Hello!!!!',
+    introTitle: 'Xin Chào!!!!',
     introDesc: ` T có điều này muốn nói với Cậu, nhớ phải trả lời thật lòng nha`,
     btnIntro: 'Oke',
     title: 'Cậu iu t có phải không 😙',
@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Tớ biết mà 🥰. Love you 300.000 😘😘',
     messDesc: 'còn giờ thì chờ gì nữa mà không inbox cho tớ đi nào.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.instagram.com/huymq.1710/' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/profile.php?id=100019094589612' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
