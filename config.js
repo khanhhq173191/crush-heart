@@ -1,16 +1,16 @@
 const CONFIG = {
-    introTitle: 'Xin Chào!!!!',
-    introDesc: ` T có điều này muốn nói với Cậu, nhớ phải trả lời thật lòng nha`,
-    btnIntro: 'Oke',
-    title: 'Cậu iu t có phải không 😙',
-    desc: 'Không trả lời hoặc thoát ra, tức là Cậu iu t đó nha :> ',
-    btnYes: 'Iu ơi là Iu <33',
-    btnNo: 'Mơ à :333',
-    question:'Nói cho t lý do vì sao iu đii <3',
-    btnReply: 'Gửi cho t <3',
-    reply: 'Tại vì cậu đẹp trai hihi <33333333',
-    mess: 'Tớ biết mà 🥰. Love you 300.000 😘😘',
-    messDesc: 'còn giờ thì chờ gì nữa mà không inbox cho tớ đi nào.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/profile.php?id=100019094589612' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+  introTitle: "Xin Chào!!!!",
+  introDesc: `Chào mừng bạn đến với thế giới của Khánh trưởng thành (Quên đi Khánh trẻ trâu đi nhé)`,
+  btnIntro: "Oke",
+  title: "Thấy Khánh giờ khác bọt không",
+  desc: "Không trả lời hoặc thoát ra, tức là cậu đồng ý đó :> ",
+  btnYes: "Chuẩn luôn giờ Khánh ngầu hơn nhiều rồi",
+  btnNo: "Vẫn còn trẻ trâu lắm =))",
+  question: "Bạn có muốn biết thêm về mình khum",
+  btnReply: "Gửi cho cho Khánh của hiện tại",
+  reply: "Khánh giờ trưởng thành và ngầu hơn trước nhìu lắm :)))))))",
+  mess: "Tớ biết mà 🥰. Cảm ơn cậu rất nhìu 😘😘",
+  messDesc: "còn giờ thì chờ gì nữa mà không inbox cho Khánh để nhận quà nào.",
+  btnAccept: "Okiiiii lun <3",
+  messLink: "https://www.facebook.com/profile.php?id=100019094589612", //link mess của các bạn. VD: https://m.me/nam.nodemy
+};
